@@ -1,13 +1,13 @@
 # Easyeye theme
-This extension is for Visual Studio Code, adds a theme titled Easyeye theme.
+This extension is for Visual Studio Code, adds a theme titled EasyEye theme.
 
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
-2. Search for `Easyeye theme`
+2. Search for `EasyEye theme`
 3. Click `Install` to install it.
 4. Click `Reload` to reload the your editor
-5. File > Preferences > Color Theme > `Easyeye theme`
+5. File > Preferences > Color Theme > `EasyEye theme`
 
 ## Screenshots
 ![Typescript](https://raw.githubusercontent.com/webservices-network/vscode-easyeye-theme/main/images/typescript-screenshot.png)
