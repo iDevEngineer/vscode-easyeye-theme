@@ -3,7 +3,7 @@
   "displayName": "EasyEye Theme",
   "description": "Dark theme with contrast strong colours",
   "icon": "images/logo.webp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Scott Mackey",
   "license": "MIT",
   "author": {
@@ -17,7 +17,8 @@
     "vscode": "^1.71.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "keywords": [
     "themes",
@@ -33,6 +34,11 @@
         "path": "./themes/easyeye-dark-contrast.json"
       }
     ]
+  },
+  "scripts": {
+    "list": "npx vsce ls",
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
   },
   "publishConfig": {
     "access": "public"
