@@ -1,9 +1,5 @@
-# Change Log
+# EasyEye Theme Change Log
 
-All notable changes to the "easyeye-theme" extension will be documented in this file.
+## 0.0.2 (2022-09-27)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Initial Release of EasyEye Theme 
