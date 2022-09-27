@@ -2,20 +2,39 @@
   "name": "easyeye-theme",
   "displayName": "EasyEye Theme",
   "description": "Dark theme with contrast strong colours",
+  "icon": "images/logo.webp",
   "version": "0.0.1",
+  "publisher": "Scott Mackey",
+  "license": "MIT",
+  "author": {
+    "name": "Scott Mackey"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webservices-network/vscode-easyeye-theme.git"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "themes",
+    "dark",
+    "contrast",
+    "easyeye"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "EasyEye Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/EasyEye-color-theme.json"
+        "path": "./themes/easyeye-dark-contrast.json"
       }
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
