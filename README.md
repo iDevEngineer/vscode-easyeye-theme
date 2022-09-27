@@ -10,11 +10,11 @@ This extension is for Visual Studio Code, adds a theme titled Easyeye theme.
 5. File > Preferences > Color Theme > `Easyeye theme`
 
 ## Screenshots
-![Typescript](https://raw.githubusercontent.com/webservices-network/vscode-easyeye-theme/main/images/images/typescript-screenshot.png)
+![Typescript](https://raw.githubusercontent.com/webservices-network/vscode-easyeye-theme/main/images/typescript-screenshot.png)
 
-![CSS](https://raw.githubusercontent.com/webservices-network/vscode-easyeye-theme/main/images/images/css-screenshot.png)
+![CSS](https://raw.githubusercontent.com/webservices-network/vscode-easyeye-theme/main/images/css-screenshot.png)
 
-![VScode Settings](https://raw.githubusercontent.com/webservices-network/vscode-easyeye-theme/main/images/images/settings-screenshot.png)
+![VScode Settings](https://raw.githubusercontent.com/webservices-network/vscode-easyeye-theme/main/images/settings-screenshot.png)
 
 ## Recommended Settings (Just my preferences, find what you like best)
 ```json
